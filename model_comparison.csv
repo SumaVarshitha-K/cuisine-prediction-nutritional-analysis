@@ -1,0 +1,3 @@
+Model,Accuracy (%),Weighted Precision (%),Weighted Recall (%)
+Tuned Logistic Regression,76.40477686989315,76.12615752010059,76.40477686989315
+Tuned Linear SVM,77.15901948460088,76.77392563533402,77.15901948460088
